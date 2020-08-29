@@ -15,7 +15,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 # disqusShortname = "yourdiscussshortname"
 
 [author]
-  name = "HEQ LLC nmls 2002811"
+  name = "Heq LLC nmls 2002811"
 
 [blackfriday]
   # hrefTargetBlank = true
