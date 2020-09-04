@@ -16,7 +16,7 @@ Loans offered:
 * Investment property
 * New Construction
 
-### > Apply now [here](https://www.blink.mortgage/app/signup/p/heqllc/jondavidhammons).
+### > Apply now [here](https://www.blink.mortgage/app/signup/p/Heqhomeloans/JDHammons).
 
 ## Contact
 
