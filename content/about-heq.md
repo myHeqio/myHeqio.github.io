@@ -8,7 +8,7 @@ date = "2020-08-20"
 Loans offered:
 
 * Conventional
-* FHA
+* FHA/VA
 * USDA Rural Housing
 * Non-Conforming
 * Jumbo
